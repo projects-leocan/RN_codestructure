@@ -1,0 +1,5 @@
+export const whiteColor = "#FFF"
+export const appthemecolour1 = "#E93674"
+export const appthemecolour2 = "#EC3F7F"
+export const appthemecolour3 = "#F477AF"
+export const appthemecolour4 = "#EE306B"
